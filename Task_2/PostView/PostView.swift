@@ -162,12 +162,3 @@ import SwiftUI
         }
         
     }
-    extension Color {
-        static var pinkColor: Color {
-            Color("PinkColor")
-        }
-        
-        static var blackColor: Color {
-            Color("BlackColor")
-        }
-    }
