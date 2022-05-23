@@ -23,8 +23,7 @@ import SwiftUI
             }
         }
         
-        
-        var content:some View {
+                var content:some View {
             VStack{
                 Divider()
                     .frame(height: 1)
